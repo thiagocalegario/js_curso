@@ -13,6 +13,10 @@ const myFunc = (props) => {
             break
     }
 }
+
+//Switch case está defasado, é mais comum utilizar if-else
+
+
 myFunc("Thiago")
 myFunc("Marcos")
 myFunc()
